@@ -112,14 +112,14 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Podman](https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 
-</div>
-
 | Kategória          | Technológiák                      |
 | ------------------ | --------------------------------- |
 | **Verziókezelés**  | Git, GitHub                       |
 | **Tesztelés**      | Unit tesztek, Integration testing |
 | **Konténerizáció** | Docker, Docker Compose, Podman    |
 | **OS**             | Linux (napi szintű használat)     |
+
+</div>
 
 ---
 
@@ -132,6 +132,8 @@
 </div>
 
 ### 🔧 Mechanikai & Elektronikai Kompetenciák
+
+<div align="center">
 
 <table>
 <tr>
@@ -155,5 +157,7 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
